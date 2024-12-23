@@ -32,9 +32,9 @@ Passionate developer exploring the intersections of Machine Learning, Artificial
 ## 🎵 Currently On Repeat
 
 <div align="center">
-  <a href="https://tidal.com/browse/track/your-track-id" target="_blank">
+  <a href="https://tidal.com/browse/track/77706591)" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tidal.svg" alt="tidal" width="30" height="30" style="margin-right: 10px"/>
-    <strong>Your Favorite Song - Artist Name</strong>
+    <strong>Reminder - The Weeknd</strong>
   </a>
 </div>
 
