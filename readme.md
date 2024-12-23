@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Jakie
 
 ## 🚀 About Me
-Software developer passionate about creating elegant solutions to complex problems. I love exploring new technologies and contributing to open source projects.
+Passionate developer exploring the intersections of Machine Learning, Artificial Intelligence, and API development. I love building intelligent systems and creating seamless integrations through APIs. Currently diving deep into ML models and their practical applications. 
 
 <div align="center">
   
@@ -26,6 +26,15 @@ Software developer passionate about creating elegant solutions to complex proble
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
+  </a>
+</div>
+
+## 🎵 Currently On Repeat
+
+<div align="center">
+  <a href="https://tidal.com/browse/track/your-track-id" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tidal.svg" alt="tidal" width="30" height="30" style="margin-right: 10px"/>
+    <strong>Your Favorite Song - Artist Name</strong>
   </a>
 </div>
 
@@ -60,5 +69,7 @@ Software developer passionate about creating elegant solutions to complex proble
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvs/?username=jakiepari&color=blueviolet" alt="Profile Views Counter"/>
+  
+![](https://visitor-badge.laobi.icu/badge?page_id=jakiepari.jakiepari)
+
 </div>
