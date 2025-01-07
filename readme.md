@@ -28,7 +28,7 @@ Hey! i'm pari jaki. high school student that love to make a random stuff for my 
 
 ## 🎵 Currently On Repeat
 
-<iframe src="https://embed.spotify.com/?uri=spotify:user:spotify:track:37F0uwRSrdzkBiuj0D5UHI" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+[![Spotify Track](https://open.spotify.com/embed/track/37F0uwRSrdzkBiuj0D5UHI)](https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI)
 
 ## 📊 Most Used Languages
 
