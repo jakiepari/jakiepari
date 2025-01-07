@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Jakie
 
 ## 🚀 About Me
-Passionate developer exploring the intersections of Machine Learning, Artificial Intelligence, and API development. I love building intelligent systems and creating seamless integrations through APIs. Currently diving deep into ML models and their practical applications. 
+Hey! i'm pari jaki. high school student that love to make a random stuff for my learning project! i'm currently try to learn about LLM and Data science! Feel free to connect with me!
 
 <div align="center">
   
@@ -18,9 +18,6 @@ Passionate developer exploring the intersections of Machine Learning, Artificial
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="70" height="70"/>
-  </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="70" height="70"/>
   </a>
@@ -31,14 +28,7 @@ Passionate developer exploring the intersections of Machine Learning, Artificial
 
 ## 🎵 Currently On Repeat
 
-
-
-<div align="center">
-  <a href="https://tidal.com/browse/track/77706591" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tidal.svg" alt="tidal" width="30" height="30" style="margin-right: 10px"/>
-    <strong>Reminder - The Weeknd</strong>
-  </a>
-</div>
+<iframe src="https://embed.spotify.com/?uri=spotify:user:spotify:track:37F0uwRSrdzkBiuj0D5UHI" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 ## 📊 Most Used Languages
 
