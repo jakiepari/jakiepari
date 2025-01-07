@@ -26,9 +26,6 @@ Hey! i'm pari jaki. high school student that love to make a random stuff for my 
   </a>
 </div>
 
-## 🎵 Currently On Repeat
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)(https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI)
-
 ## 📊 Most Used Languages
 
 <div align="center">
