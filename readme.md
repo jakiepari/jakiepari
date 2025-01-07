@@ -27,7 +27,7 @@ Hey! i'm pari jaki. high school student that love to make a random stuff for my 
 </div>
 
 ## 🎵 Currently On Repeat
-[![Spotify](https://developer.spotify.com/assets/branding-guidelines/icon3@2x.png)](https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI)
+![Preview](https://tthn.pythonanywhere.com)g)](https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI)
 
 ## 📊 Most Used Languages
 
